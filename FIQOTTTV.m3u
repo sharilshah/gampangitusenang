@@ -3,15 +3,37 @@ LI#EXTM3U
 #EXTM3U billed-msg="!!SILA CONTACT @SHARiLs di telegram sekiranya ingin mempunyai ID IPTV ini!!"
 
 
-#######################################################          SERIES           ################################################################
 
-#######################################################POPEYE################################################################
+############################################################################################################################################################################################################################
+###############################################################          SERIES           ##################################################################################################################################
+############################################################################################################################################################################################################################
 
 
-#EXTINF:-1 type="series" tvg-logo="https://raw.githubusercontent.com/sharilshah/logomovieandseries/main/Iptv Smarters Logo.jpg" group-title=" [SERIES] Anime" group=" TAHUN 2023", JACK ARROW S1 E1
+
+
+#################################################################  SERIES MELAYU 2023 ################################################################
+
+
+###############################################                   CINTA ITU BUTA 2023                             ####################################
+
+#EXTINF:-1 type="series" tvg-logo="https://raw.githubusercontent.com/sharilshah/logomovieandseries/main/Iptv Smarters Logo.jpg" group-title=" [SERIES] MELAYU TAHUN 2023" group=" TAHUN 2023", CINTA  ITU BUTA S1 E1
+https://wpu16-my.sharepoint.com/:v:/g/personal/sharils_wpu16_onmicrosoft_com/ESEV7Qk5ReJNi2L8zB5hVOEBXxPBQJJnIFGt1ocGV_z6Gg?e=SY8r41&download=1
+#EXTINF:-1 type="series" tvg-logo="https://raw.githubusercontent.com/sharilshah/logomovieandseries/main/Iptv Smarters Logo.jpg" group-title=" [SERIES] MELAYU TAHUN 2023" group=" TAHUN 2023", CINTA  ITU BUTA S1 E2
 https://wpu16-my.sharepoint.com/:v:/g/personal/sharils_wpu16_onmicrosoft_com/ESEV7Qk5ReJNi2L8zB5hVOEBXxPBQJJnIFGt1ocGV_z6Gg?e=SY8r41&download=1
 
-#EXTINF:-1 type="series" tvg-logo="https://raw.githubusercontent.com/sharilshah/logomovieandseries/main/Iptv Smarters Logo.jpg" group-title=" [SERIES] NETFLIX TAHUN 2022", KOLONG S1 E1
+
+
+
+
+
+
+################################################################  SERIES ENGLISH 2023 ################################################################
+
+#################################################                   GONE IS HILANG                            ########################################
+
+#EXTINF:-1 type="series" tvg-logo="https://raw.githubusercontent.com/sharilshah/logomovieandseries/main/Iptv Smarters Logo.jpg" group-title=" [SERIES] ENGLISH TAHUN 2023", GONE IS HILANG S1 E1
+https://wpu16-my.sharepoint.com/:v:/g/personal/sharils_wpu16_onmicrosoft_com/ESEV7Qk5ReJNi2L8zB5hVOEBXxPBQJJnIFGt1ocGV_z6Gg?e=SY8r41&download=1
+#EXTINF:-1 type="series" tvg-logo="https://raw.githubusercontent.com/sharilshah/logomovieandseries/main/Iptv Smarters Logo.jpg" group-title=" [SERIES] ENGLISH TAHUN 2023", GONE IS HILANG S1 E2
 https://wpu16-my.sharepoint.com/:v:/g/personal/sharils_wpu16_onmicrosoft_com/ESEV7Qk5ReJNi2L8zB5hVOEBXxPBQJJnIFGt1ocGV_z6Gg?e=SY8r41&download=1
 
 
@@ -20,12 +42,20 @@ https://wpu16-my.sharepoint.com/:v:/g/personal/sharils_wpu16_onmicrosoft_com/ESE
 
 
 
+############################################################################################################################################################################################################################
+###############################################################          MOVIE           ###################################################################################################################################
+############################################################################################################################################################################################################################
 
-#######################################################          MOVIE          ################################################################
+
+#######################################################          MOVIE ENGLISH 2023          ############################################################
 #EXTINF:-1 type="movie" tvg-logo="https://raw.githubusercontent.com/sharilshah/logomovieandseries/main/Iptv Smarters Logo.jpg" group-title=" [MOVIE] ENGLISH TAHUN 2023", Test Video 1 S1 E1
 https://wpu16-my.sharepoint.com/:v:/g/personal/sharils_wpu16_onmicrosoft_com/ESEV7Qk5ReJNi2L8zB5hVOEBXxPBQJJnIFGt1ocGV_z6Gg?e=SY8r41&download=1
 
 
+
+#######################################################          MOVIE MELAYU 2023          #############################################################
+#EXTINF:-1 type="movie" tvg-logo="https://raw.githubusercontent.com/sharilshah/logomovieandseries/main/Iptv Smarters Logo.jpg" group-title=" [MOVIE] MELAYU TAHUN 2023", Test Video 1 S1 E1
+https://wpu16-my.sharepoint.com/:v:/g/personal/sharils_wpu16_onmicrosoft_com/ESEV7Qk5ReJNi2L8zB5hVOEBXxPBQJJnIFGt1ocGV_z6Gg?e=SY8r41&download=1
 
 
 
