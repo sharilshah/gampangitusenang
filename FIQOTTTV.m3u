@@ -8,10 +8,10 @@
 #######################################################POPEYE################################################################
 
 
-#EXTINF:-1 type="series" tvg-logo="https://raw.githubusercontent.com/sharilshah/logomovieandseries/main/Iptv Smarters Logo.jpg" group-title=" [SERIES] Anime", Test Video 1 S1 E1
+#EXTINF:-1 type="series" tvg-logo="https://raw.githubusercontent.com/sharilshah/logomovieandseries/main/Iptv Smarters Logo.jpg" group-title=" [SERIES] Anime" group=" TAHUN 2023", JACK ARROW S1 E1
 https://wpu16-my.sharepoint.com/:v:/g/personal/sharils_wpu16_onmicrosoft_com/ESEV7Qk5ReJNi2L8zB5hVOEBXxPBQJJnIFGt1ocGV_z6Gg?e=SY8r41&download=1
 
-#EXTINF:-1 type="series" tvg-logo="https://raw.githubusercontent.com/sharilshah/logomovieandseries/main/Iptv Smarters Logo.jpg" group-title=" [SERIES] TAHUN 2023", KOLONG S1 E1
+#EXTINF:-1 type="series" tvg-logo="https://raw.githubusercontent.com/sharilshah/logomovieandseries/main/Iptv Smarters Logo.jpg" group-title=" [SERIES] NETFLIX TAHUN 2022", KOLONG S1 E1
 https://wpu16-my.sharepoint.com/:v:/g/personal/sharils_wpu16_onmicrosoft_com/ESEV7Qk5ReJNi2L8zB5hVOEBXxPBQJJnIFGt1ocGV_z6Gg?e=SY8r41&download=1
 
 
@@ -22,7 +22,7 @@ https://wpu16-my.sharepoint.com/:v:/g/personal/sharils_wpu16_onmicrosoft_com/ESE
 
 
 #######################################################          MOVIE          ################################################################
-#EXTINF:-1 type="movie" tvg-logo="https://raw.githubusercontent.com/sharilshah/logomovieandseries/main/Iptv Smarters Logo.jpg", Test Video 1 S1 E1
+#EXTINF:-1 type="movie" tvg-logo="https://raw.githubusercontent.com/sharilshah/logomovieandseries/main/Iptv Smarters Logo.jpg" group-title=" [MOVIE] TAHUN 2023", Test Video 1 S1 E1
 https://wpu16-my.sharepoint.com/:v:/g/personal/sharils_wpu16_onmicrosoft_com/ESEV7Qk5ReJNi2L8zB5hVOEBXxPBQJJnIFGt1ocGV_z6Gg?e=SY8r41&download=1
 
 
