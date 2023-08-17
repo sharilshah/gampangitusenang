@@ -344,35 +344,35 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2308/default_ott.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"6txiarlZJV96uIHAPTBv4g", "kid":"aSlQ05hpySr5qd3qRTwNEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="KBSWorld" tvg-name="KBS World HD" group-title="KOREAN" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//KOREAN//KR_KBSWORLD.png",392 KBS WORLD
+#EXTINF:-1 tvg-id="KBSWorld" tvg-name="KBS World HD" group-title="KOREAN" group-logo="https://static.vecteezy.com/system/resources/previews/007/686/825/original/south-korea-flag-circle-image-and-icon-free-vector.jpg" tvg-logo="https://ws.kapallayar.cc//image//Logo//KOREAN//KR_KBSWORLD.png",392 KBS WORLD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default_ott.mpd
   
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Red+aounZ7Y8rP2wHvKsKQ", "kid":"2P45jHkGUXP6l4jyJgVlEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="ONE" tvg-name="ONE HD" group-title="KOREAN" tvg-logo="https://ws.kapallayar.cc//image//Logo//KOREAN//KR_ONE.png?1704" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png",393 ONE
+#EXTINF:-1 tvg-id="ONE" tvg-name="ONE HD" group-title="KOREAN" tvg-logo="https://ws.kapallayar.cc//image//Logo//KOREAN//KR_ONE.png?1704" group-logo="https://static.vecteezy.com/system/resources/previews/007/686/825/original/south-korea-flag-circle-image-and-icon-free-vector.jpg",393 ONE
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default_ott.mpd
   
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GegOzF0zchXGQATLScnLAQ", "kid":"+vTWK7iY3lA0RsKPsaqSEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="tvN" tvg-name="tVN HD" group-title="KOREAN" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//KOREAN//KR_TVN.png",395 TVN
+#EXTINF:-1 tvg-id="tvN" tvg-name="tVN HD" group-title="KOREAN" group-logo="https://static.vecteezy.com/system/resources/previews/007/686/825/original/south-korea-flag-circle-image-and-icon-free-vector.jpg" tvg-logo="https://ws.kapallayar.cc//image//Logo//KOREAN//KR_TVN.png",395 TVN
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_ott.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"0SzOuvu6KlNdiKMIf4hCUg", "kid":"jiaciqMq1364MGgxI0PWEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="tvNMovies" tvg-name="tvN Movies HD" group-title="KOREAN" tvg-logo="https://ws.kapallayar.cc//image//Logo//KOREAN//KR_TVNMOVIES.png?1704" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png",416 TVN MOVIES
+#EXTINF:-1 tvg-id="tvNMovies" tvg-name="tvN Movies HD" group-title="KOREAN" tvg-logo="https://ws.kapallayar.cc//image//Logo//KOREAN//KR_TVNMOVIES.png?1704" group-logo="https://static.vecteezy.com/system/resources/previews/007/686/825/original/south-korea-flag-circle-image-and-icon-free-vector.jpg",416 TVN MOVIES
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_ott.mpd
   
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"taOoAISBIMhDrg+mjAnCYQ", "kid":"qkiyi9cj+RIUiH327Z+tEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="K-Plus" tvg-name="K-Plus HD" group-title="KOREAN" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//KOREAN//KR_KPLUS.png",396 K-PLUS
+#EXTINF:-1 tvg-id="K-Plus" tvg-name="K-Plus HD" group-title="KOREAN" group-logo="https://static.vecteezy.com/system/resources/previews/007/686/825/original/south-korea-flag-circle-image-and-icon-free-vector.jpg" tvg-logo="https://ws.kapallayar.cc//image//Logo//KOREAN//KR_KPLUS.png",396 K-PLUS
 https://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_ott.mpd
   
 #KODIPROP:inputstreamaddon=inputstream.adaptive
