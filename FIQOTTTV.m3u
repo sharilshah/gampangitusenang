@@ -2,109 +2,113 @@
 
 
 
+############################ MALAYSIA PARTITION ###########################
+
+
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"vqLQ+J+z+6+h/J80uoc0pg", "kid":"kSdgxAnrWv8+BgQixQL0EA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="TV1" tvg-name="TV1 HD" group-title="MALAYSIA" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_V1.png",101 TV1
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV1 HD" group-title="MALAYSIA" group-logo="https://upload.wikimedia.org/wikipedia/en/9/92/Team_Malaysia_logo.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_V1.png",101 TV1
 https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_ott.mpd
   
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"JKmxeFmGKIfyj2PHwpvKpQ", "kid":"T4hUgf4FPlRAllMsHcuXEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="TV2" tvg-name="TV2 HD" group-title="MALAYSIA" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_V2.png",102 TV2
+#EXTINF:-1 tvg-id="TV2" tvg-name="TV2 HD" group-title="MALAYSIA" group-logo="https://upload.wikimedia.org/wikipedia/en/9/92/Team_Malaysia_logo.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_V2.png",102 TV2
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"J6L3HYe/XrEFrwlvtmBdlw", "kid":"Ov4w7k6iSmf+Wi7wboPbCw" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="TV3" tvg-name="TV3" group-title="MALAYSIA" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_V3.png",103 TV3
+#EXTINF:-1 tvg-id="TV3" tvg-name="TV3" group-title="MALAYSIA" group-logo="https://upload.wikimedia.org/wikipedia/en/9/92/Team_Malaysia_logo.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_V3.png",103 TV3
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Vcyu6IazQN2QH0v43Z06ag", "kid":"w+lWs4rpk74UlMfPoXsREA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="TVS" tvg-name="TVS" group-title="MALAYSIA" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_TVS.png",122 TVS
+#EXTINF:-1 tvg-id="TVS" tvg-name="TVS" group-title="MALAYSIA" group-logo="https://upload.wikimedia.org/wikipedia/en/9/92/Team_Malaysia_logo.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_TVS.png",122 TVS
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4EDKKqQm33ibo4S6VhiRtA", "kid":"R6Ega0SCLIkyDnCRbPV7DA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="DidikTVKPM" tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_V7.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" group-title="MALAYSIA",147 TV7
+#EXTINF:-1 tvg-id="DidikTVKPM" tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_V7.png" group-logo="https://upload.wikimedia.org/wikipedia/en/9/92/Team_Malaysia_logo.png" group-title="MALAYSIA",147 TV7
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live06.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BW4eSVc9LK7ly0/nj4xPPQ", "kid":"qcYZB07TjCDiWtNsPFfBDA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="8TV" tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_V8.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" group-title="MALAYSIA",148 TV8
+#EXTINF:-1 tvg-id="8TV" tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_V8.png" group-logo="https://upload.wikimedia.org/wikipedia/en/9/92/Team_Malaysia_logo.png" group-title="MALAYSIA",148 TV8
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live08.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Zfavh1DSSyMNkbmEI3rB5A", "kid":"HfqKZFr0HoPFIL3fkTk0yg" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="TV9" tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_V9.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" group-title="MALAYSIA",149 TV9
+#EXTINF:-1 tvg-id="TV9" tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_V9.png" group-logo="https://upload.wikimedia.org/wikipedia/en/9/92/Team_Malaysia_logo.png" group-title="MALAYSIA",149 TV9
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live09.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4JbgoHmJVlsv1DSoIW4CDQ", "kid":"kfP+uqtuFckyAnm+JYaKoQ" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="120.unifi" tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_Degup.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" group-title="MALAYSIA",DEGUP
+#EXTINF:-1 tvg-id="120.unifi" tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_Degup.png" group-logo="https://upload.wikimedia.org/wikipedia/en/9/92/Team_Malaysia_logo.png" group-title="MALAYSIA",DEGUP
 https://web.hypp.tv:443/PLTV/88888888/224/3221227923/3221227923.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=tnUM3pus6bSh1mr%2FQqP7gS%2BLhDQRCdSHNpB7NvbJKHMO5mMHa9B%2BzYQOtwwhTPs9uuxH7x3%2FZwmEQ4bTlgbubfHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20221124080123%3AUTC%2C1001767137%2C115.164.56.153%2C20221124080123%2Curn:Huawei:liveTV:XTV55631601%2C1001767137%2C-1%2C0%2C1%2C%2C%2C2%2C595%2C%2C%2C2%2C1612403%2C0%2C517698%2C2706399750%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwW7DIBQE_4YjAoqxfeCUKlKlyq0Ut9doDS_UCjYpOJH6941b57q7s5olw9HLs23l4OoKRnlXaadbaCfrthYVGiPkIFih7y5ZxRxiHOfQJb9in4fdUQouuFKSS8X69W4fEbZld50GyvbpgR0o30ZH1pcTv6FwhJApYBnTzN8jfj5y3CaM-k1NGtOqRhulTVOxZU17lPO9YV8ouzRdkMm_pvAH2BNiIXaBOyNQh4nsfI3xn3vL_m7zCxBl4Ar0AAAA&tenantId=6001
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XwbW5xMzNV60uJG01fUJdQ", "kid":"IEsTi0zUlCNmh6AWzyCloQ" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="128.unifi" tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_Dunia.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" group-title="MALAYSIA",DUNIA SINEMA
+#EXTINF:-1 tvg-id="128.unifi" tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_Dunia.png" group-logo="https://upload.wikimedia.org/wikipedia/en/9/92/Team_Malaysia_logo.png" group-title="MALAYSIA",DUNIA SINEMA
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live27.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"nBBcxoyqnPZTFeBu9Qhgqw", "kid":"GQDQ/Y39I1fKJoXGZii/Bw" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="118.unifi" tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_Inspirasi.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" group-title="MALAYSIA",INSPIRASI
+#EXTINF:-1 tvg-id="118.unifi" tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_Inspirasi.png" group-logo="https://upload.wikimedia.org/wikipedia/en/9/92/Team_Malaysia_logo.png" group-title="MALAYSIA",INSPIRASI
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live29.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"m/YWIPzWgY0F6IWNqrUq1Q", "kid":"s4OL9oWqjbozCGqiNp4P5w" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="116.unifi" tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_USensasi.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" group-title="MALAYSIA",SENSASI
+#EXTINF:-1 tvg-id="116.unifi" tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_USensasi.png" group-logo="https://upload.wikimedia.org/wikipedia/en/9/92/Team_Malaysia_logo.png" group-title="MALAYSIA",SENSASI
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live30.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"UlUQz6Y0vWMK+MlfqTV2yg", "kid":"bwbzs898utDMiyHiyU37EA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroAwani" tvg-name="Astro Awani HD" group-title="MALAYSIA" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_Awani.png",501 ASTRO AWANI
+#EXTINF:-1 tvg-id="AstroAwani" tvg-name="Astro Awani HD" group-title="MALAYSIA" group-logo="https://upload.wikimedia.org/wikipedia/en/9/92/Team_Malaysia_logo.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_Awani.png",501 ASTRO AWANI
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5025/default.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hBL0RP++NQzy7OBR+RUukA", "kid":"C2Uyau3j7b6B5vtAMX1TEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroPrima" tvg-name="Astro Prima HD" group-title="MALAYSIA" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_Prima.png",105 ASTRO PRIMA
+#EXTINF:-1 tvg-id="AstroPrima" tvg-name="Astro Prima HD" group-title="MALAYSIA" group-logo="https://upload.wikimedia.org/wikipedia/en/9/92/Team_Malaysia_logo.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_Prima.png",105 ASTRO PRIMA
 https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XzX4FWmRQOJknYJfDSQCjg", "kid":"F9XWLcYZVLgu4BbaJkq9EA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroOasis" tvg-name="Astro Oasis HD" group-title="MALAYSIA" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_Oasis.png",106 ASTRO OASIS
+#EXTINF:-1 tvg-id="AstroOasis" tvg-name="Astro Oasis HD" group-title="MALAYSIA" group-logo="https://upload.wikimedia.org/wikipedia/en/9/92/Team_Malaysia_logo.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_Oasis.png",106 ASTRO OASIS
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"JqbvXBxWGCpTFLeSFbjQbQ", "kid":"526GvXDwqoLJSzjYKVPdEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroCeria" tvg-name="Astro Ceria HD" group-title="MALAYSIA" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_Ceria.png",611 ASTRO CERIA
+#EXTINF:-1 tvg-id="AstroCeria" tvg-name="Astro Ceria HD" group-title="MALAYSIA" group-logo="https://upload.wikimedia.org/wikipedia/en/9/92/Team_Malaysia_logo.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_Ceria.png",611 ASTRO CERIA
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2408/default.mpd
 
 
@@ -112,7 +116,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2408/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"vdcZaKFbY0s+CXFzqLfqew", "kid":"BRDNLxNQRgGVb7WBZ95r6w" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroSensasi" tvg-name="" group-title="MALAYSIA" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_Sensasi.png",107 ASTRO SENSASI
+#EXTINF:-1 tvg-id="AstroSensasi" tvg-name="" group-title="MALAYSIA" group-logo="https://upload.wikimedia.org/wikipedia/en/9/92/Team_Malaysia_logo.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_Sensasi.png",107 ASTRO SENSASI
 http://149.18.85.131/live/8059765630/3322606439/13490.m3u8
 https://ucdn.starhubgo.com/bpk-tv/HubSensasiHD/output/manifest.mpd
 
@@ -123,41 +127,41 @@ https://ucdn.starhubgo.com/bpk-tv/HubSensasiHD/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"jkIAv1xNUj/wC/0XPQIWAg", "kid":"eExgN+WIjoQQbkEFn+KxEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroRania" tvg-name="ASTRO RANIA HD" group-title="MALAYSIA" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//INDO//INDO_RANIA.png",112 ASTRO RANIA
+#EXTINF:-1 tvg-id="AstroRania" tvg-name="ASTRO RANIA HD" group-title="MALAYSIA" group-logo="https://upload.wikimedia.org/wikipedia/en/9/92/Team_Malaysia_logo.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//INDO//INDO_RANIA.png",112 ASTRO RANIA
 https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"9cIxIYX58MSJS3POF0GdjA", "kid":"hpwyN9L654MBqR27WpJNEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroAura" tvg-name="ASTRO AURA HD" group-title="MALAYSIA" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//INDO//INDO_AURA.png",113 ASTRO AURA
+#EXTINF:-1 tvg-id="AstroAura" tvg-name="ASTRO AURA HD" group-title="MALAYSIA" group-logo="https://upload.wikimedia.org/wikipedia/en/9/92/Team_Malaysia_logo.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//INDO//INDO_AURA.png",113 ASTRO AURA
 https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
-#EXTINF:-1 tvg-id="INDOSIAR.id" tvg-logo="https://ws.kapallayar.cc//image//Logo//INDO//INDO_INDOSIAR.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" group-title="MALAYSIA",INDOSIAR
+#EXTINF:-1 tvg-id="INDOSIAR.id" tvg-logo="https://ws.kapallayar.cc//image//Logo//INDO//INDO_INDOSIAR.png" group-logo="https://upload.wikimedia.org/wikipedia/en/9/92/Team_Malaysia_logo.png" group-title="MALAYSIA",INDOSIAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://web.ottgo.live/socia/vidio23/icon.png?id=205
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
-#EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://ws.kapallayar.cc//image//Logo//INDO//INDO_SCTV.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" group-title="MALAYSIA",SCTV
+#EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://ws.kapallayar.cc//image//Logo//INDO//INDO_SCTV.png" group-logo="https://upload.wikimedia.org/wikipedia/en/9/92/Team_Malaysia_logo.png" group-title="MALAYSIA",SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://web.ottgo.live/socia/vidio23/icon.png?id=204
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=41a42fb5af457501c11bb9b158d5a110:57a8d6f9e3832887db18ea6071118736
-#EXTINF:-1 tvg-id="TVAlhijrah" tvg-name="Al-Hijrah" group-title="MALAYSIA" tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_Hijrah.png?1704" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png",114 ALHIJRAH
+#EXTINF:-1 tvg-id="TVAlhijrah" tvg-name="Al-Hijrah" group-title="MALAYSIA" tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_Hijrah.png?1704" group-logo="https://upload.wikimedia.org/wikipedia/en/9/92/Team_Malaysia_logo.png",114 ALHIJRAH
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f84fbe826d15755ef91ebcab67c57d10:6a136b65d2d45699cb1e98506dfa1bee
-#EXTINF:-1 tvg-id="AwesomeTV" tvg-name="Awesome TV" group-title="MALAYSIA" tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_Awesome.png?1704" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png",123 AWESOME TV
+#EXTINF:-1 tvg-id="AwesomeTV" tvg-name="Awesome TV" group-title="MALAYSIA" tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_Awesome.png?1704" group-logo="https://upload.wikimedia.org/wikipedia/en/9/92/Team_Malaysia_logo.png",123 AWESOME TV
 https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default_ott.mpd
   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=60f202b16407fedd8e369c32af57dd10:c8475231c09dc1b639886976b6fc7575
-#EXTINF:-1 tvg-id="OKEY" tvg-name="TV Okey" group-title="MALAYSIA" tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_Okey.png?1704" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png",146 TV OKEY
+#EXTINF:-1 tvg-id="OKEY" tvg-name="TV Okey" group-title="MALAYSIA" tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_Okey.png?1704" group-logo="https://upload.wikimedia.org/wikipedia/en/9/92/Team_Malaysia_logo.png",146 TV OKEY
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5072/default_ott.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
